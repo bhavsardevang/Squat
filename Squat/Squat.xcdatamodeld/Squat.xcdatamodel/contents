@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20B50" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="PersonCardImage" representedClassName="PersonCardImage" syncable="YES">
+        <attribute name="besnuCard" optional="YES" attributeType="String"/>
+        <attribute name="personId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="personName" optional="YES" attributeType="String"/>
+        <attribute name="terviCard" optional="YES" attributeType="String"/>
+        <uniquenessConstraints>
+            <uniquenessConstraint>
+                <constraint value="personId"/>
+            </uniquenessConstraint>
+        </uniquenessConstraints>
+    </entity>
+    <entity name="PersonFamilyData" representedClassName="PersonFamilyData" syncable="YES">
+        <attribute name="familyid" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="personid" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="relationShip" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="PersonInfo" representedClassName="PersonInfo" syncable="YES">
+        <attribute name="addressLatitude" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="addressLongitude" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="besnuAddress" optional="YES" attributeType="String"/>
+        <attribute name="besnuDate" optional="YES" attributeType="String"/>
+        <attribute name="besnuEndTime" optional="YES" attributeType="String"/>
+        <attribute name="besnuStartTime" optional="YES" attributeType="String"/>
+        <attribute name="dob" optional="YES" attributeType="String"/>
+        <attribute name="dod" optional="YES" attributeType="String"/>
+        <attribute name="firmAddress" optional="YES" attributeType="String"/>
+        <attribute name="mobileNumber" optional="YES" attributeType="String"/>
+        <attribute name="personid" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="personImage" optional="YES" attributeType="Binary"/>
+        <attribute name="personName" optional="YES" attributeType="String"/>
+        <attribute name="referalNumber" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="PersonProofData" representedClassName="PersonProofData" syncable="YES">
+        <attribute name="documentid" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="documentName" optional="YES" attributeType="String"/>
+        <attribute name="personName" optional="YES" attributeType="String"/>
+        <attribute name="proofImage" optional="YES" attributeType="Binary"/>
+    </entity>
+    <entity name="TerviInfo" representedClassName="TerviInfo" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String"/>
+        <attribute name="dod" optional="YES" attributeType="String"/>
+        <attribute name="mobileNumber" optional="YES" attributeType="String"/>
+        <attribute name="mundanDate" optional="YES" attributeType="String"/>
+        <attribute name="mundanEndTime" optional="YES" attributeType="String"/>
+        <attribute name="mundanStartTime" optional="YES" attributeType="String"/>
+        <attribute name="personId" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="personName" optional="YES" attributeType="String"/>
+        <attribute name="placeName" optional="YES" attributeType="String"/>
+        <attribute name="referalNumber" optional="YES" attributeType="String"/>
+        <attribute name="terviDate" optional="YES" attributeType="String"/>
+        <attribute name="terviEndTime" optional="YES" attributeType="String"/>
+        <attribute name="terviStartTime" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UserInfo" representedClassName="UserInfo" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String"/>
+        <attribute name="emailId" optional="YES" attributeType="String"/>
+        <attribute name="mobileNumber" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="password" optional="YES" attributeType="String"/>
+        <attribute name="photo" optional="YES" attributeType="Binary"/>
+    </entity>
+    <elements>
+        <element name="PersonCardImage" positionX="-27" positionY="117" width="128" height="89"/>
+        <element name="PersonFamilyData" positionX="0" positionY="153" width="128" height="89"/>
+        <element name="PersonInfo" positionX="-54" positionY="18" width="128" height="239"/>
+        <element name="PersonProofData" positionX="-18" positionY="144" width="128" height="89"/>
+        <element name="TerviInfo" positionX="-36" positionY="90" width="128" height="224"/>
+        <element name="UserInfo" positionX="-63" positionY="-18" width="128" height="119"/>
+    </elements>
+</model>

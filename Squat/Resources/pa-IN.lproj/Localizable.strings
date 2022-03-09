@@ -1,0 +1,158 @@
+/* 
+  localization.strings
+  Squat
+
+  Created by devang bhavsar on 04/03/22.
+  
+*/
+
+//Login
+"Email Id" = "ਈਮੇਲ ਆਈ.ਡੀ";
+"Mobile Number" = "ਮੋਬਾਈਲ ਨੰਬਰ";
+"Password" = "ਪਾਸਵਰਡ";
+"Confirm Password" = "ਪਾਸਵਰਡ ਪੱਕਾ ਕਰੋ";
+"LOGIN" = "ਲਾਗਿਨ";
+"Sign Up" = "ਸਾਇਨ ਅਪ";
+"OR" = "ਅਤੇ";
+"Forgot Password" = "ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ";
+"Don't have an account" = "ਕੋਈ ਖਾਤਾ ਨਹੀਂ ਹੈ";
+"Signup here" = "ਇੱਥੇ ਸਾਈਨ ਅੱਪ ਕਰੋ";
+"SAVE" = "ਸੇਵ ਕਰੋ";
+"ImagePicker" = "ਚਿੱਤਰ ਚੋਣਕਾਰ";
+"Image Selection" = "ਚਿੱਤਰ ਚੋਣ";
+"Camera" = "ਕੈਮਰਾ";
+"Gallery" = "ਗੈਲਰੀ";
+"Change Password" = "ਪਾਸਵਰਡ ਬਦਲੋ";
+//SignUp
+"Name" = "ਨਾਮ";
+"Address" = "ਪਤਾ";
+"Detail" = "ਵੇਰਵੇ";
+"Person Name" = "ਵਿਅਕਤੀ ਦਾ ਨਾਮ";
+"Date of Birth" = "ਜਨਮ ਤਾਰੀਖ";
+"Date of Death" = "ਮੌਤ ਦੀ ਤਾਰੀਖ";
+//Side Menu
+"Home" = "ਘਰ";
+"Rasam Kriya(BESNU)" = "ਰਸਮ ਦੀ ਰਸਮ(ਬੇਸਨੂ)";
+"Tervi Vidhi" = "ਤੇਰ੍ਹਾਂ ਢੰਗ";
+"Person Document" = "ਵਿਅਕਤੀ ਦਸਤਾਵੇਜ਼";
+"Besnu List" = "ਬੇਸਨੂ ਸੂਚੀ";
+"Tervi List" = "ਤੇਰ੍ਹਾਂ ਸੂਚੀ";
+"Person Card List" = "ਵਿਅਕਤੀ ਕਾਰਡ ਸੂਚੀ";
+"Delete All Data" = "ਸਾਰਾ ਡਾਟਾ ਮਿਟਾਓ";
+"Logout" = "ਲਾੱਗ ਆਊਟ";
+//Main
+"Detail" = "ਵੇਰਵੇ";
+"Om Santi" = "ਓਮ ਸਾਂਤੀ";
+//Invitation Card
+"Note: If you want to install this app then download from play store, URL:" = "ਨੋਟ: ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਐਪ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਪਲੇ ਸਟੋਰ ਤੋਂ ਡਾਊਨਲੋਡ ਕਰੋ, URL:";
+"Add" = "ਸ਼ਾਮਲ ਕਰੋ";
+"Edit" = "ਸੰਪਾਦਿਤ ਕਰੋ";
+"Passed Away Peacefully On" = "'ਤੇ ਸ਼ਾਂਤੀਪੂਰਵਕ ਦੇਹਾਂਤ ਹੋ ਗਿਆ";
+"Date" = "ਤਾਰੀਖ਼";
+"Time" = "ਸਮਾਂ";
+"place" = "ਸਥਾਨ";
+"Inserted By" = "ਦੁਆਰਾ ਪਾਈ ਗਈ";
+"Firm" = "ਫਰਮ";
+"MobileNumber" = "ਮੋਬਾਈਲ ਨੰਬਰ";
+"Mundan" = "ਮੁੰਡਨ";
+"Tervi" = "ਤੇਰ੍ਹਾਂ";
+"Cancel" = "ਰੱਦ ਕਰੋ";
+"Enter Number" = "ਨੰਬਰ ਦਰਜ ਕਰੋ";
+"Person FullName" = "ਵਿਅਕਤੀ ਦਾ ਪੂਰਾ ਨਾਮ";
+"Date of Passed" = "ਪਾਸ ਹੋਣ ਦੀ ਮਿਤੀ";
+"Besnu Date" = "ਬੇਸਨੁ ਮਿਤੀ";
+"Start Time" = "ਸ਼ੁਰੂਆਤੀ ਸਮਾਂ";
+"End Time" = "ਸਮਾਪਤੀ ਸਮਾਂ";
+"Place Name" = "ਸਥਾਨ ਦਾ ਨਾਮ";
+"Address" = "ਪਤਾ";
+"Family Member List" = "ਪਰਿਵਾਰਕ ਮੈਂਬਰਾਂ ਦੀ ਸੂਚੀ";
+"Firm Address" = "ਪੱਕਾ ਪਤਾ";
+"Mobile Number" = "ਮੋਬਾਈਲ ਨੰਬਰ";
+"Referal Number" = "ਰੈਫਰਲ ਨੰਬਰ";
+"RelationShip" = "ਰਿਲੇਸ਼ਨਸ਼ਿਪ";
+"Mundan Date" = "ਹਜਾਮਤ ਕੀਤੀ ਮਿਤੀ";
+"Tervi Date" = "ਤੇਰ੍ਹਾਂ ਤਾਰੀਖ਼";
+"please provide" = "ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰਦਾਨ ਕਰੋ";
+"please select" = "ਕਿਰਪਾ ਕਰਕੇ ਚੁਣੋ";
+"Tervi Description" = "ਤੇਰ੍ਹਾਂ ਵਰਣਨ";
+"BESNU Description" = "ਬੇਸਨੁ ਵਰਣਨ";
+"Proof Display" = "ਸਬੂਤ ਡਿਸਪਲੇ";
+//Person Info
+"Card" = "ਕਾਰਡ";
+"Tervi" = "ਤੇਰ੍ਹਾਂ";
+"BESNU" = "ਬੇਸਨੂ";
+"List" = "ਸੂਚੀ";
+//CardShowImage
+"Card Display" = "ਕਾਰਡ ਡਿਸਪਲੇਅ";
+//Add Proof
+"Add Proof" = "ਸਬੂਤ ਸ਼ਾਮਲ ਕਰੋ";
+"Document Name" = "ਦਸਤਾਵੇਜ਼ ਦਾ ਨਾਮ";
+"Document Image" = "ਦਸਤਾਵੇਜ਼ ਚਿੱਤਰ";
+
+//Family Member
+"Father" = "ਪਿਤਾ";
+"Mother" = "ਮਾਂ";
+"Wife" = "ਪਤਨੀ";
+"Husband" = "ਪਤੀ";
+"Brother" = "ਭਰਾ";
+"Sister in Law" = "ਸਾਲੀ";
+"Brother in Law" = "ਜੀਜਾ ਜੀ";
+"Sister" = "ਭੈਣ";
+"Son" = "ਪੁੱਤਰ";
+"Uncle" = "ਅੰਕਲ";
+"Aunty" = "ਮਾਸੀ";
+"Daughter in Law" = "ਨੂੰਹ";
+"Grand Daughter in Law" = "ਲਾਅ ਵਿੱਚ ਪੋਤਰੀ";
+"Great Grand Daughter in Law" = "ਲਾਅ ਵਿੱਚ ਮਹਾਨ ਦਾਦੀ";
+"Great Grand Son" = "ਮਹਾਨ ਪੋਤਾ";
+"Grand Son in Law" = "ਪੋਤਾ ਜਵਾਈ";
+"Daughter" = "ਧੀ";
+"Son" = "ਪੁੱਤਰ";
+"Family Detail" = "ਪਰਿਵਾਰ ਦਾ ਵੇਰਵਾ";
+"OK" = "ਠੀਕ ਹੈ";
+"Cancel" = "ਰੱਦ ਕਰੋ";
+"Share" = "ਸ਼ੇਅਰ ਕਰੋ";
+"BESNU Image" = "ਬੇਸਨੂ ਚਿੱਤਰ";
+"Tervi Image" = "ਤੇਰ੍ਹਾਂ ਚਿੱਤਰ";
+"Prefer Language"  = "ਭਾਸ਼ਾ ਨੂੰ ਤਰਜੀਹ ਦਿਓ";
+"Song Name" = "ਗੀਤ ਦਾ ਨਾਮ";
+"No data found" = "ਕੋਈ ਡਾਟਾ ਨਹੀਂ ਮਿਲਿਆ";
+"SUBMIT" = "ਜਮ੍ਹਾਂ ਕਰੋ";
+//Alert Messages
+"please select one option" = "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵਿਕਲਪ ਚੁਣੋ";
+"please select your profie image" = "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਪ੍ਰੋਫਾਈਲ ਚਿੱਤਰ ਚੁਣੋ";
+"your Image is not saved please try again" = "ਤੁਹਾਡਾ ਚਿੱਤਰ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+//Main
+"please select the person image first" = "ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਵਿਅਕਤੀ ਦੀ ਤਸਵੀਰ ਚੁਣੋ";
+//Invitation Card
+"You have share Card successfully" = "ਤੁਸੀਂ ਸਫਲਤਾਪੂਰਵਕ ਕਾਰਡ ਸਾਂਝਾ ਕਰ ਲਿਆ ਹੈ";
+"please provide customer number more then 10 digit" = "ਕਿਰਪਾ ਕਰਕੇ 10 ਅੰਕਾਂ ਤੋਂ ਵੱਧ ਗਾਹਕ ਨੰਬਰ ਪ੍ਰਦਾਨ ਕਰੋ";
+"please filled the description from Add" = "ਕਿਰਪਾ ਕਰਕੇ Add ਤੋਂ ਵੇਰਵਾ ਭਰੋ";
+"given name is not exist please add Besnu card first" = "ਦਿੱਤਾ ਨਾਮ ਮੌਜੂਦ ਨਹੀਂ ਹੈ ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਬੇਸਨੂ ਕਾਰਡ ਜੋੜੋ";
+"You can't be edit this data" = "ਤੁਸੀਂ ਇਸ ਡੇਟਾ ਨੂੰ ਸੰਪਾਦਿਤ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ";
+"issue for get data please try again" = "ਡਾਟਾ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਮੁੱਦਾ ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ";
+"please try again" = "ਮੁੜ ਕੋਸ਼ਿਸ ਕਰੋ ਜੀ";
+"Are you sure you want to Logout" = "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਲੌਗਆਊਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ";
+"please enter Name at" = "ਤੇ ਨਾਮ ਦਰਜ ਕਰੋ ਜੀ";
+"index" = "ਸੂਚਕਾਂਕ";
+"please choose relationship of the member at" = "ਕਿਰਪਾ ਕਰਕੇ 'ਤੇ ਮੈਂਬਰ ਦਾ ਰਿਸ਼ਤਾ ਚੁਣੋ";
+"Your data saved successfully" = "ਤੁਹਾਡਾ ਡੇਟਾ ਸਫਲਤਾਪੂਰਵਕ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ";
+"Share Card Via WhatsApp" = "ਵਟਸਐਪ ਰਾਹੀਂ ਕਾਰਡ ਸਾਂਝਾ ਕਰੋ";
+"please enter customer number" = "ਕਿਰਪਾ ਕਰਕੇ ਗਾਹਕ ਨੰਬਰ ਦਰਜ ਕਰੋ";
+"You have shared the card successfully" = "ਤੁਸੀਂ ਕਾਰਡ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਸਾਂਝਾ ਕੀਤਾ ਹੈ";
+"Password notification will come" = "ਪਾਸਵਰਡ ਨੋਟੀਫਿਕੇਸ਼ਨ ਆਵੇਗਾ";
+"Your password is" = "ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਹੈ";
+"please provide valied email id" = "ਕਿਰਪਾ ਕਰਕੇ ਵੈਧ ਈਮੇਲ ਆਈਡੀ ਪ੍ਰਦਾਨ ਕਰੋ";
+"password should be more then 5 character" = "ਪਾਸਵਰਡ 5 ਅੱਖਰ ਤੋਂ ਵੱਧ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ";
+"password does not match please provide new password and re-enter password both are same" = "ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ ਕਿਰਪਾ ਕਰਕੇ ਨਵਾਂ ਪਾਸਵਰਡ ਪ੍ਰਦਾਨ ਕਰੋ ਅਤੇ ਪਾਸਵਰਡ ਦੁਬਾਰਾ ਦਰਜ ਕਰੋ ਦੋਵੇਂ ਇੱਕੋ ਜਿਹੇ ਹਨ";
+"please enter the number or email id" = "ਕਿਰਪਾ ਕਰਕੇ ਨੰਬਰ ਜਾਂ ਈਮੇਲ ਆਈਡੀ ਦਿਓ";
+"please sign up" = "ਕਿਰਪਾ ਕਰਕੇ ਸਾਈਨ ਅੱਪ ਕਰੋ";
+"please provide valied mobile number" = "ਕਿਰਪਾ ਕਰਕੇ ਵੈਧ ਮੋਬਾਈਲ ਨੰਬਰ ਪ੍ਰਦਾਨ ਕਰੋ";
+"please check allowcation of face recognization or thumbnail" = "ਕਿਰਪਾ ਕਰਕੇ ਚਿਹਰੇ ਦੀ ਪਛਾਣ ਜਾਂ ਥੰਬਨੇਲ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਜਾਂਚ ਕਰੋ";
+"please we don't have credential so first time login with email and password" = "ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੇ ਕੋਲ ਪ੍ਰਮਾਣ ਪੱਤਰ ਨਹੀਂ ਹਨ ਇਸ ਲਈ ਪਹਿਲੀ ਵਾਰ ਈਮੇਲ ਅਤੇ ਪਾਸਵਰਡ ਨਾਲ ਲੌਗਇਨ ਕਰੋ";
+"can't find image plase save the image from clicked on BESNU list when display data then from + button choose the  save option" = "ਬੇਸਨੂ ਸੂਚੀ 'ਤੇ ਕਲਿੱਕ ਕਰਨ ਤੋਂ ਬਾਅਦ ਚਿੱਤਰ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਜਗ੍ਹਾ ਨਹੀਂ ਮਿਲ ਸਕਦੀ ਹੈ, ਜਦੋਂ ਡੇਟਾ ਡਿਸਪਲੇ ਕਰੋ, ਫਿਰ + ਬਟਨ ਤੋਂ ਸੇਵ ਵਿਕਲਪ ਚੁਣੋ।";
+"tervi information not found" = "ਤੇਰ੍ਹਾਂ ਜਾਣਕਾਰੀ ਨਹੀਂ ਮਿਲੀ";
+"Email or Mobile number does not match" = "ਈਮੇਲ ਜਾਂ ਮੋਬਾਈਲ ਨੰਬਰ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ";
+"please select preferable langauge" = "ਕਿਰਪਾ ਕਰਕੇ ਤਰਜੀਹੀ ਭਾਸ਼ਾ ਚੁਣੋ";
+"Are you sure you want to delete Database" = "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਡੇਟਾਬੇਸ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ";
+

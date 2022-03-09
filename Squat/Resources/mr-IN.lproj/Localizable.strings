@@ -1,0 +1,158 @@
+/* 
+  localization.strings
+  Squat
+
+  Created by devang bhavsar on 04/03/22.
+  
+*/
+
+//Login
+"Email Id" = "ई - मेल आयडी";
+"Mobile Number" = "मोबाईल नंबर";
+"Password" = "पासवर्ड";
+"Confirm Password" = "पासवर्डची पुष्टी करा";
+"LOGIN" = "लॉगिन करा";
+"Sign Up" = "साइन अप करा";
+"OR" = "आणि";
+"Forgot Password" = "पासवर्ड विसरलात";
+"Don't have an account" = "खाते नाही";
+"Signup here" = "येथे साइन अप करा";
+"SAVE" = "जतन करा";
+"ImagePicker" = "इमेज पिकर";
+"Image Selection" = "प्रतिमा निवड";
+"Camera" = "कॅमेरा";
+"Gallery" = "गॅलरी";
+"Change Password" = "पासवर्ड बदला";
+//SignUp
+"Name" = "नाव";
+"Address" = "पत्ता";
+"Detail" = "तपशील";
+"Person Name" = "व्यक्तीचे नाव";
+"Date of Birth" = "जन्मतारीख";
+"Date of Death" = "मृत्यूची तारीख";
+//Side Menu
+"Home" = "मुख्यपृष्ठ";
+"Rasam Kriya(BESNU)" = "विधी समारंभ(बेसनू)";
+"Tervi Vidhi" = "तेरा विधी";
+"Person Document" = "व्यक्ती दस्तऐवज";
+"Besnu List" = "बेसनू यादी";
+"Tervi List" = "तेरा यादी";
+"Person Card List" = "व्यक्ती कार्ड यादी";
+"Delete All Data" = "सर्व डेटा हटवा";
+"Logout" = "बाहेर पडणे";
+//Main
+"Detail" = "तपशील";
+"Om Santi" = "ओम संती";
+//Invitation Card
+"Note: If you want to install this app then download from play store, URL:" = "टीप: जर तुम्हाला हे अॅप इन्स्टॉल करायचे असेल तर प्ले स्टोअरवरून डाउनलोड करा, URL:";
+"Add" = "अॅड";
+"Edit" = "सुधारणे";
+"Passed Away Peacefully On" = "शांततेत निघून गेले";
+"Date" = "तारीख";
+"Time" = "वेळ";
+"place" = "जागा";
+"Inserted By" = "द्वारे घातली";
+"Firm" = "फर्म";
+"MobileNumber" = "मोबाईल नंबर";
+"Mundan" = "मुंडण";
+"Tervi" = "तेरा";
+"Cancel" = "रद्द करा";
+"Enter Number" = "क्रमांक प्रविष्ट करा";
+"Person FullName" = "व्यक्तीचे पूर्ण नाव";
+"Date of Passed" = "उत्तीर्ण झाल्याची तारीख";
+"Besnu Date" = "बेसनू तारखे";
+"Start Time" = "सुरवातीची वेळ";
+"End Time" = "समाप्तीचा कालावधी";
+"Place Name" = "ठिकाणाचे नाव";
+"Address" = "पत्ता";
+"Family Member List" = "कुटुंबातील सदस्यांची यादी";
+"Firm Address" = "पक्का पत्ता";
+"Mobile Number" = "मोबाईल नंबर";
+"Referal Number" = "संदर्भ क्रमांक";
+"RelationShip" = "नाते";
+"Mundan Date" = "मुंडण तारीख";
+"Tervi Date" = "तेरावी तारीख";
+"please provide" = "कृपया प्रदान करा";
+"please select" = "कृपया निवडा";
+"Tervi Description" = "तेरा वर्णन";
+"BESNU Description" = "बेसनू वर्णन";
+"Proof Display" = "पुरावा प्रदर्शन";
+//Person Info
+"Card" = "कार्ड";
+"Tervi" = "तेरा";
+"BESNU" = "बेसनू";
+"List" = "यादी";
+//CardShowImage
+"Card Display" = "कार्ड डिस्प्ले";
+//Add Proof
+"Add Proof" = "पुरावा जोडा";
+"Document Name" = "दस्तऐवजाचे नाव";
+"Document Image" = "दस्तऐवज प्रतिमा";
+
+//Family Member
+"Father" = "वडील";
+"Mother" = "आई";
+"Wife" = "बायको";
+"Husband" = "नवरा";
+"Brother" = "भाऊ";
+"Sister in Law" = "वहिनी";
+"Brother in Law" = "मेव्हणा";
+"Sister" = "बहीण";
+"Son" = "मुलगा";
+"Uncle" = "काका";
+"Aunty" = "काकी";
+"Daughter in Law" = "सून";
+"Grand Daughter in Law" = "सासूबाई";
+"Great Grand Daughter in Law" = "सासूबाई";
+"Great Grand Son" = "पणतू";
+"Grand Son in Law" = "नातू जावई";
+"Daughter" = "कन्या";
+"Son" = "मुलगा";
+"Family Detail" = "कौटुंबिक तपशील";
+"OK" = "ठीक आहे";
+"Cancel" = "रद्द करा";
+"Share" = "शेअर करा";
+"BESNU Image" = "बेसनू प्रतिमा";
+"Tervi Image" = "तेरा प्रतिमा";
+"Prefer Language"  = "भाषेला प्राधान्य द्या";
+"Song Name" = "गाण्याचे नाव";
+"No data found" = "माहिती आढळली नाही";
+"SUBMIT" = "प्रस्तुत करणे";
+//Alert Messages
+"please select one option" = "कृपया एक पर्याय निवडा";
+"please select your profie image" = "कृपया तुमची प्रोफाइल इमेज निवडा";
+"your Image is not saved please try again" = "तुमची प्रतिमा जतन केलेली नाही कृपया पुन्हा प्रयत्न करा";
+//Main
+"please select the person image first" = "कृपया प्रथम व्यक्तीची प्रतिमा निवडा";
+//Invitation Card
+"You have share Card successfully" = "तुम्ही कार्ड यशस्वीरित्या शेअर केले आहे";
+"please provide customer number more then 10 digit" = "कृपया १० अंकी पेक्षा जास्त ग्राहक क्रमांक द्या";
+"please filled the description from Add" = "कृपया अॅड वरून वर्णन भरा";
+"given name is not exist please add Besnu card first" = "दिलेले नाव अस्तित्वात नाही कृपया प्रथम बेसनू कार्ड जोडा";
+"You can't be edit this data" = "तुम्ही हा डेटा संपादित करू शकत नाही";
+"issue for get data please try again" = "डेटा मिळविण्यासाठी समस्या कृपया पुन्हा प्रयत्न करा";
+"please try again" = "कृपया पुन्हा प्रयत्न करा";
+"Are you sure you want to Logout" = "तुमची खात्री आहे की तुम्ही लॉगआउट करू इच्छिता";
+"please enter Name at" = "येथे नाव प्रविष्ट करा";
+"index" = "निर्देशांक";
+"please choose relationship of the member at" = "कृपया येथे सदस्याचे नाते निवडा";
+"Your data saved successfully" = "तुमचा डेटा यशस्वीरित्या सेव्ह झाला";
+"Share Card Via WhatsApp" = "WhatsApp द्वारे कार्ड शेअर करा";
+"please enter customer number" = "कृपया ग्राहक क्रमांक प्रविष्ट करा";
+"You have shared the card successfully" = "तुम्ही कार्ड यशस्वीरित्या शेअर केले आहे";
+"Password notification will come" = "पासवर्ड नोटिफिकेशन येईल";
+"Your password is" = "तुमचा पासवर्ड आहे";
+"please provide valied email id" = "कृपया वैध ईमेल आयडी द्या";
+"password should be more then 5 character" = "पासवर्ड 5 वर्णांपेक्षा जास्त असावा";
+"password does not match please provide new password and re-enter password both are same" = "पासवर्ड जुळत नाही कृपया नवीन पासवर्ड द्या आणि पासवर्ड पुन्हा एंटर करा दोन्ही समान आहेत";
+"please enter the number or email id" = "कृपया क्रमांक किंवा ईमेल आयडी प्रविष्ट करा";
+"please sign up" = "कृपया साइन अप करा";
+"please provide valied mobile number" = "कृपया वैध मोबाईल नंबर द्या";
+"please check allowcation of face recognization or thumbnail" = "कृपया चेहरा ओळख किंवा लघुप्रतिमाची परवानगी तपासा";
+"please we don't have credential so first time login with email and password" = "कृपया आमच्याकडे क्रेडेन्शियल्स नाहीत म्हणून प्रथमच ईमेल आणि पासवर्डसह लॉगिन करा";
+"can't find image plase save the image from clicked on BESNU list when display data then from + button choose the  save option" = "बेसनू सूचीवर क्लिक केल्यावर प्रतिमा जतन करण्याचे ठिकाण सापडत नाही तेव्हा डेटा प्रदर्शित केल्यानंतर + बटण वरून सेव्ह पर्याय निवडा";
+"tervi information not found" = "तेरा माहिती सापडली नाही";
+"Email or Mobile number does not match" = "ईमेल किंवा मोबाईल नंबर जुळत नाही";
+"please select preferable langauge" = "कृपया श्रेयस्कर भाषा निवडा";
+"Are you sure you want to delete Database" = "तुमची खात्री आहे की तुम्ही डेटाबेस हटवू इच्छिता";
+

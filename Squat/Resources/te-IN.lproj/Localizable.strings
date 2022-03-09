@@ -1,0 +1,157 @@
+/* 
+  localization.strings
+  Squat
+
+  Created by devang bhavsar on 04/03/22.
+  
+*/
+
+//Login
+"Email Id" = "ఇమెయిల్ ఐడి";
+"Mobile Number" = "మొబైల్ నంబర్";
+"Password" = "పాస్వర్డ్";
+"Confirm Password" = "పాస్వర్డ్ను నిర్ధారించండి";
+"LOGIN" = "ప్రవేశించండి";
+"Sign Up" = "చేరడం";
+"OR" = "లేదా";
+"Forgot Password" = "పాస్‌వర్డ్ మర్చిపోయాను";
+"Don't have an account" = "ఖాతా లేదు";
+"Signup here" = "ఇక్కడ సైన్ అప్ చేయండి";
+"SAVE" = "సేవ్ చేయండి";
+"ImagePicker" = "ఇమేజ్ పిక్కర్";
+"Image Selection" = "చిత్రం ఎంపిక";
+"Camera" = "కెమెరా";
+"Gallery" = "గ్యాలరీ";
+"Change Password" = "పాస్వర్డ్ మార్చండి";
+//SignUp
+"Name" = "పేరు";
+"Address" = "చిరునామా";
+"Detail" = "వివరాలు";
+"Person Name" = "వ్యక్తి పేరు";
+"Date of Birth" = "పుట్టిన తేది";
+"Date of Death" = "మరణించిన తేదీ";
+//Side Menu
+"Home" = "హోమ్";
+"Rasam Kriya(BESNU)" = "రసం క్రియ(స్క్వాట్)";
+"Tervi Vidhi" = "టీర్వి కర్మ";
+"Person Document" = "వ్యక్తి పత్రం";
+"Besnu List" = "బెస్ను జాబితా";
+"Tervi List" = "టెర్వి జాబితా";
+"Person Card List" = "వ్యక్తి కార్డ్ జాబితా";
+"Delete All Data" = "మొత్తం డేటాను తొలగించండి";
+"Logout" = "లాగ్అవుట్";
+//Main
+"Detail" = "వివరాలు";
+"Om Santi" = "శాంతి గురించి";
+//Invitation Card
+"Note: If you want to install this app then download from play store, URL:" = "మనిక: మీరు ఈ యాప్‌ను ఇన్‌స్టాల్ చేయాలనుకుంటే, ప్లే స్టోర్, URL నుండి డౌన్‌లోడ్ చేసుకోండి:";
+"Add" = "జోడించు";
+"Edit" = "సవరించు";
+"Passed Away Peacefully On" = "శాంతియుతంగా మరణించారు";
+"Date" = "తేదీ";
+"Time" = "సమయం";
+"place" = "స్థలం";
+"Inserted By" = "ద్వారా చేర్చబడింది";
+"Firm" = "సంస్థ";
+"MobileNumber" = "మొబైల్ నంబర్";
+"Mundan" = "ముండన్";
+"Tervi" = "పదమూడు";
+"Cancel" = "రద్దు చేయండి";
+"Enter Number" = "సంఖ్యను నమోదు చేయండి";
+"Person FullName" = "వ్యక్తి పూర్తి పేరు";
+"Date of Passed" = "ఆమోదించిన తేదీ";
+"Besnu Date" = "బెస్ను తేదీ";
+"Start Time" = "ప్రారంభ సమయం";
+"End Time" = "ముగింపు సమయం";
+"Place Name" = "స్థలం పేరు";
+"Address" = "చిరునామా";
+"Family Member List" = "కుటుంబ సభ్యుల జాబితా";
+"Firm Address" = "సంస్థ చిరునామా";
+"Mobile Number" = "మొబైల్ నంబర్";
+"Referal Number" = "రెఫరల్ నంబర్";
+"RelationShip" = "రిలేషన్షిప్";
+"Mundan Date" = "ముండన్ తేదీ";
+"Tervi Date" = "టెర్వి తేదీ";
+"please provide" = "దయచేసి అందించండి";
+"please select" = "దయచేసి ఎంచుకోండి";
+"Tervi Description" = "టెర్వి వివరణ";
+"BESNU Description" = "స్క్వాట్ వివరణ";
+"Proof Display" = "ప్రూఫ్ డిస్ప్లే";
+//Person Info
+"Card" = "కార్డ్";
+"Tervi" = "టెర్వి";
+"BESNU" = "స్క్వాట్";
+"List" = "జాబితా";
+//CardShowImage
+"Card Display" = "కార్డ్ డిస్ప్లే";
+//Add Proof
+"Add Proof" = "రుజువును జోడించండి";
+"Document Name" = "పత్రం పేరు";
+"Document Image" = "డాక్యుమెంట్ చిత్రం";
+
+//Family Member
+"Father" = "తండ్రి";
+"Mother" = "తల్లి";
+"Wife" = "భార్య";
+"Husband" = "భర్త";
+"Brother" = "సోదరుడు";
+"Sister in Law" = "వదిన";
+"Brother in Law" = "బావగారు";
+"Sister" = "సోదరి";
+"Son" = "కొడుకు";
+"Uncle" = "మామ";
+"Aunty" = "ఆంటీ";
+"Daughter in Law" = "కోడలు";
+"Grand Daughter in Law" = "గ్రాండ్ డాటర్ ఇన్ లా";
+"Great Grand Daughter in Law" = "గ్రేట్ గ్రాండ్ డాటర్ ఇన్ లా";
+"Great Grand Son" = "ముని మనవడు";
+"Grand Son in Law" = "మనవడు";
+"Daughter" = "కూతురు";
+"Son" = "కొడుకు";
+"Family Detail" = "కుటుంబ వివరాలు";
+"OK" = "అలాగే";
+"Cancel" = "రద్దు చేయండి";
+"Share" = "షేర్ చేయండి";
+"BESNU Image" = "స్క్వాట్ చిత్రం";
+"Tervi Image" = "టెర్వి చిత్రం";
+"Prefer Language"  = "భాషకు ప్రాధాన్యత ఇవ్వండి";
+"Song Name" = "పాట పేరు";
+"No data found" = "డేటా ఏదీ కనుగొనబడలేదు";
+"SUBMIT" = "సమర్పించండి";
+//Alert Messages
+"please select one option" = "దయచేసి ఒక ఎంపికను ఎంచుకోండి";
+"please select your profie image" = "దయచేసి మీ ప్రొఫైల్ చిత్రాన్ని ఎంచుకోండి";
+"your Image is not saved please try again" = "మీ చిత్రం సేవ్ చేయబడలేదు దయచేసి మళ్లీ ప్రయత్నించండి";
+//Main
+"please select the person image first" = "దయచేసి ముందుగా వ్యక్తి చిత్రాన్ని ఎంచుకోండి";
+//Invitation Card
+"You have share Card successfully" = "మీరు విజయవంతంగా షేర్ కార్డ్‌ని కలిగి ఉన్నారు";
+"please provide customer number more then 10 digit" = "దయచేసి 10 అంకెల కంటే ఎక్కువ కస్టమర్ నంబర్‌ను అందించండి";
+"please filled the description from Add" = "దయచేసి యాడ్ నుండి వివరణను పూరించండి";
+"given name is not exist please add Besnu card first" = "ఇచ్చిన పేరు ఉనికిలో లేదు దయచేసి ముందుగా బెస్ను కార్డ్‌ని జోడించండి";
+"You can't be edit this data" = "మీరు ఈ డేటాను సవరించలేరు";
+"issue for get data please try again" = "డేటా పొందడానికి సమస్య దయచేసి మళ్లీ ప్రయత్నించండి";
+"please try again" = "దయచేసి మళ్లీ ప్రయత్నించండి";
+"Are you sure you want to Logout" = "మీరు ఖచ్చితంగా లాగ్ అవుట్ చేయాలనుకుంటున్నారా";
+"please enter Name at" = "దయచేసి వద్ద పేరు నమోదు చేయండి";
+"index" = "సూచిక";
+"please choose relationship of the member at" = "దయచేసి సభ్యుని సంబంధాన్ని ఎంచుకోండి";
+"Your data saved successfully" = "మీ డేటా విజయవంతంగా సేవ్ చేయబడింది";
+"Share Card Via WhatsApp" = "వాట్సాప్ ద్వారా కార్డ్‌ని షేర్ చేయండి";
+"please enter customer number" = "దయచేసి కస్టమర్ నంబర్‌ని నమోదు చేయండి";
+"You have shared the card successfully" = "మీరు కార్డ్‌ని విజయవంతంగా షేర్ చేసారు";
+"Password notification will come" = "పాస్‌వర్డ్ నోటిఫికేషన్ వస్తుంది";
+"Your password is" = "మీ పాస్‌వర్డ్";
+"please provide valied email id" = "దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ ఐడిని అందించండి";
+"password should be more then 5 character" = "పాస్వర్డ్ 5 అక్షరాల కంటే ఎక్కువ ఉండాలి";
+"password does not match please provide new password and re-enter password both are same" = "పాస్‌వర్డ్ సరిపోలలేదు, దయచేసి కొత్త పాస్‌వర్డ్‌ను అందించండి మరియు పాస్‌వర్డ్‌ను మళ్లీ నమోదు చేయండి రెండూ ఒకటే";
+"please enter the number or email id" = "దయచేసి నంబర్ లేదా ఇమెయిల్ ఐడిని నమోదు చేయండి";
+"please sign up" = "దయచేసి సైన్ అప్ చేయండి";
+"please provide valied mobile number" = "దయచేసి చెల్లుబాటు అయ్యే మొబైల్ నంబర్‌ను అందించండి";
+"please check allowcation of face recognization or thumbnail" = "దయచేసి ముఖ గుర్తింపు లేదా సూక్ష్మచిత్రం యొక్క అనుమతిని తనిఖీ చేయండి";
+"please we don't have credential so first time login with email and password" = "దయచేసి మా వద్ద ఆధారాలు లేవు కాబట్టి మొదటిసారి ఇమెయిల్ మరియు పాస్‌వర్డ్‌తో లాగిన్ చేయండి";
+"can't find image plase save the image from clicked on BESNU list when display data then from + button choose the  save option" = "చిత్రం కనుగొనబడలేదు, డేటాను ప్రదర్శించేటప్పుడు స్క్వాట్ జాబితాపై క్లిక్ చేసిన చిత్రాన్ని సేవ్ చేయండి, ఆపై + బటన్ నుండి సేవ్ ఎంపికను ఎంచుకోండి";
+"tervi information not found" = "టెర్వి సమాచారం కనుగొనబడలేదు";
+"Email or Mobile number does not match" = "ఇమెయిల్ లేదా మొబైల్ నంబర్ సరిపోలలేదు";
+"please select preferable langauge" = "దయచేసి ప్రాధాన్యత గల భాషను ఎంచుకోండి";
+"Are you sure you want to delete Database" = "మీరు ఖచ్చితంగా డేటాబేస్‌ని తొలగించాలనుకుంటున్నారా";

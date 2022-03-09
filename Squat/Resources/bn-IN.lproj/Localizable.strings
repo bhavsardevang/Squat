@@ -1,0 +1,158 @@
+/* 
+  localization.strings
+  Squat
+
+  Created by devang bhavsar on 04/03/22.
+  
+*/
+
+//Login
+"Email Id" = "ইমেইল আইডি";
+"Mobile Number" = "মোবাইল নম্বর";
+"Password" = "পাসওয়ার্ড";
+"Confirm Password" = "পাসওয়ার্ড নিশ্চিত করুন";
+"LOGIN" = "প্রবেশ করুন";
+"Sign Up" = "নিবন্ধন করুন";
+"OR" = "এবং";
+"Forgot Password" = "পাসওয়ার্ড ভুলে গেছেন";
+"Don't have an account" = "একটি অ্যাকাউন্ট নেই";
+"Signup here" = "এখানে নিবন্ধন করুন";
+"SAVE" = "সংরক্ষণ";
+"ImagePicker" = "ইমেজ পিকার";
+"Image Selection" = "ছবি নির্বাচন";
+"Camera" = "ক্যামেরা";
+"Gallery" = "গ্যালারি";
+"Change Password" = "পাসওয়ার্ড পরিবর্তন করুন";
+//SignUp
+"Name" = "নাম";
+"Address" = "ঠিকানা";
+"Detail" = "বিস্তারিত";
+"Person Name" = "ব্যক্তির নাম";
+"Date of Birth" = "জন্ম তারিখ";
+"Date of Death" = "মৃত্যুর তারিখ";
+//Side Menu
+"Home" = "বাড়ি";
+"Rasam Kriya(BESNU)" = "আচার অনুষ্ঠান(বেসনু)";
+"Tervi Vidhi" = "টেরভি পদ্ধতি";
+"Person Document" = "ব্যক্তি নথি";
+"Besnu List" = "বেসনু তালিকা";
+"Tervi List" = "তেরো তালিকা";
+"Person Card List" = "ব্যক্তি কার্ড তালিকা";
+"Delete All Data" = "সমস্ত ডেটা মুছুন";
+"Logout" = "প্রস্থান";
+//Main
+"Detail" = "বিস্তারিত";
+"Om Santi" = "ওম সান্তি";
+//Invitation Card
+"Note: If you want to install this app then download from play store, URL:" = "দ্রষ্টব্য: আপনি যদি এই অ্যাপটি ইনস্টল করতে চান তবে প্লে স্টোর থেকে ডাউনলোড করুন, URL:";
+"Add" = "যোগ করুন";
+"Edit" = "সম্পাদনা করুন";
+"Passed Away Peacefully On" = "শান্তিপূর্ণভাবে চলে গেছে";
+"Date" = "তারিখ";
+"Time" = "সময়";
+"place" = "স্থান";
+"Inserted By" = "দ্বারা ঢোকানো";
+"Firm" = "দৃঢ়";
+"MobileNumber" = "মোবাইল নম্বর";
+"Mundan" = "চাঁচা";
+"Tervi" = "তেরো";
+"Cancel" = "বাতিল করুন";
+"Enter Number" = "সংখ্যা প্রবেশ করান";
+"Person FullName" = "ব্যক্তির সম্পূর্ণ নাম";
+"Date of Passed" = "পাসের তারিখ";
+"Besnu Date" = "বেসনু তারিখ";
+"Start Time" = "সময় শুরু";
+"End Time" = "শেষ সময়";
+"Place Name" = "স্থানের নাম";
+"Address" = "ঠিকানা";
+"Family Member List" = "পরিবারের সদস্যদের তালিকা";
+"Firm Address" = "দৃঢ় ঠিকানা";
+"Mobile Number" = "মোবাইল নম্বর";
+"Referal Number" = "রেফারেল নম্বর";
+"RelationShip" = "রিলেশনশিপ";
+"Mundan Date" = "চাঁচা তারিখ";
+"Tervi Date" = "ত্রয়োদশ তারিখ";
+"please provide" = "অনুগ্রহ করে সরবরাহ করুন";
+"please select" = "অনুগ্রহ করে নির্বাচন করুন";
+"Tervi Description" = "তেরো বর্ণনা";
+"BESNU Description" = "বেসনু বর্ণনা";
+"Proof Display" = "প্রমাণ প্রদর্শন";
+//Person Info
+"Card" = "কার্ড";
+"Tervi" = "তেরো";
+"BESNU" = "বেসনু";
+"List" = "তালিকা";
+//CardShowImage
+"Card Display" = "কার্ড প্রদর্শন";
+//Add Proof
+"Add Proof" = "প্রমাণ যোগ করুন";
+"Document Name" = "নথির নাম";
+"Document Image" = "ডকুমেন্ট ইমেজ";
+
+//Family Member
+"Father" = "পিতা";
+"Mother" = "মা";
+"Wife" = "স্ত্রী";
+"Husband" = "স্বামী";
+"Brother" = "ভাই";
+"Sister in Law" = "শালী";
+"Brother in Law" = "দুলাভাই";
+"Sister" = "বোন";
+"Son" = "পুত্র";
+"Uncle" = "চাচা";
+"Aunty" = "খালা";
+"Daughter in Law" = "পুত্রবধূ";
+"Grand Daughter in Law" = "আইনজীবী নাতনি";
+"Great Grand Daughter in Law" = "আইনজীবী গ্রেট গ্র্যান্ড ডটার ইন";
+"Great Grand Son" = "সর্বোৎকৃষ্ট নাতি";
+"Grand Son in Law" = "জামাই জামাই";
+"Daughter" = "কন্যা";
+"Son" = "পুত্র";
+"Family Detail" = "পারিবারিক বিস্তারিত";
+"OK" = "ঠিক আছে";
+"Cancel" = "বাতিল করুন";
+"Share" = "শেয়ার করুন";
+"BESNU Image" = "বেসনু ছবি";
+"Tervi Image" = "তেরো ছবি";
+"Prefer Language"  = "ভাষা পছন্দ করুন";
+"Song Name" = "গানের নাম";
+"No data found" = "কোন তথ্য পাওয়া যায়নি";
+"SUBMIT" = "জমা দিন";
+//Alert Messages
+"please select one option" = "একটি বিকল্প নির্বাচন করুন";
+"please select your profie image" = "আপনার প্রোফাইল ইমেজ নির্বাচন করুন";
+"your Image is not saved please try again" = "আপনার ছবি সংরক্ষিত হয়নি অনুগ্রহ করে আবার চেষ্টা করুন";
+//Main
+"please select the person image first" = "প্রথমে ব্যক্তি ইমেজ নির্বাচন করুন";
+//Invitation Card
+"You have share Card successfully" = "আপনি সফলভাবে কার্ড শেয়ার করেছেন";
+"please provide customer number more then 10 digit" = "অনুগ্রহ করে 10 সংখ্যার বেশি গ্রাহক নম্বর প্রদান করুন";
+"please filled the description from Add" = "যোগ থেকে বিবরণ পূরণ করুন";
+"given name is not exist please add Besnu card first" = "প্রদত্ত নাম বিদ্যমান নেই অনুগ্রহ করে প্রথমে বেসনু কার্ড যোগ করুন";
+"You can't be edit this data" = "আপনি এই ডেটা সম্পাদনা করতে পারবেন না";
+"issue for get data please try again" = "তথ্য পেতে সমস্যা অনুগ্রহ করে আবার চেষ্টা করুন";
+"please try again" = "অনুগ্রহপূর্বক আবার চেষ্টা করুন";
+"Are you sure you want to Logout" = "আপনি লগ আউট করতে চান";
+"please enter Name at" = "অনুগ্রহ করে নাম লিখুন";
+"index" = "সূচক";
+"please choose relationship of the member at" = "অনুগ্রহ করে সদস্যের সম্পর্ক নির্বাচন করুন";
+"Your data saved successfully" = "আপনার ডেটা সফলভাবে সংরক্ষিত হয়েছে৷";
+"Share Card Via WhatsApp" = "হোয়াটসঅ্যাপের মাধ্যমে কার্ড শেয়ার করুন";
+"please enter customer number" = "অনুগ্রহ করে গ্রাহক নম্বর লিখুন";
+"You have shared the card successfully" = "আপনি সফলভাবে কার্ড ভাগ করেছেন";
+"Password notification will come" = "পাসওয়ার্ড নোটিফিকেশন আসবে";
+"Your password is" = "আপনার পাসওয়ার্ড হল";
+"please provide valied email id" = "বৈধ ইমেইল আইডি প্রদান করুন";
+"password should be more then 5 character" = "পাসওয়ার্ড 5 অক্ষরের বেশি হওয়া উচিত";
+"password does not match please provide new password and re-enter password both are same" = "পাসওয়ার্ড মেলে না দয়া করে নতুন পাসওয়ার্ড দিন এবং পাসওয়ার্ড পুনরায় লিখুন উভয়ই একই";
+"please enter the number or email id" = "নম্বর বা ইমেল আইডি লিখুন";
+"please sign up" = "সাইন আপ করুন";
+"please provide valied mobile number" = "বৈধ মোবাইল নম্বর প্রদান করুন";
+"please check allowcation of face recognization or thumbnail" = "অনুগ্রহ করে মুখ শনাক্তকরণ বা থাম্বনেইলের অনুমতি পরীক্ষা করুন";
+"please we don't have credential so first time login with email and password" = "অনুগ্রহ করে আমাদের কাছে শংসাপত্র নেই তাই প্রথমবার ইমেল এবং পাসওয়ার্ড দিয়ে লগইন করুন";
+"can't find image plase save the image from clicked on BESNU list when display data then from + button choose the  save option" = "বেসনু তালিকায় ক্লিক করা থেকে ছবিটি সংরক্ষণ করার স্থান খুঁজে পাচ্ছেন না যখন ডেটা প্রদর্শন করুন তারপর + বোতাম থেকে সংরক্ষণ বিকল্পটি বেছে নিন";
+"tervi information not found" = "তেরো তথ্য পাওয়া যায়নি";
+"Email or Mobile number does not match" = "ইমেল বা মোবাইল নম্বর মেলে না";
+"please select preferable langauge" = "অনুগ্রহ করে পছন্দের ভাষা নির্বাচন করুন";
+"Are you sure you want to delete Database" = "আপনি কি নিশ্চিত আপনি ডাটাবেস মুছে ফেলতে চান";
+

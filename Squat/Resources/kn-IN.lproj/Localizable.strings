@@ -1,0 +1,157 @@
+/* 
+  localization.strings
+  Squat
+
+  Created by devang bhavsar on 04/03/22.
+  
+*/
+
+//Login
+"Email Id" = "ಇಮೇಲ್ ಐಡಿ";
+"Mobile Number" = "ಮೊಬೈಲ್ ನಂಬರ";
+"Password" = "ಗುಪ್ತಪದ";
+"Confirm Password" = "ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ";
+"LOGIN" = "ಲಾಗಿನ್";
+"Sign Up" = "ಸೈನ್ ಅಪ್ ಮಾಡಿ";
+"OR" = "ಅಥವಾ";
+"Forgot Password" = "ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ";
+"Don't have an account" = "ಖಾತೆಯನ್ನು ಹೊಂದಿಲ್ಲ";
+"Signup here" = "ಇಲ್ಲಿ ಸೈನ್ ಅಪ್ ಮಾಡಿ";
+"SAVE" = "ಉಳಿಸಿ";
+"ImagePicker" = "ಇಮೇಜ್ ಪಿಕರ್";
+"Image Selection" = "ಚಿತ್ರದ ಆಯ್ಕೆ";
+"Camera" = "ಕ್ಯಾಮೆರಾ";
+"Gallery" = "ಗ್ಯಾಲರಿ";
+"Change Password" = "ಗುಪ್ತಪದವನ್ನು ಬದಲಿಸಿ";
+//SignUp
+"Name" = "ಹೆಸರು";
+"Address" = "ವಿಳಾಸ";
+"Detail" = "ವಿವರ";
+"Person Name" = "ವ್ಯಕ್ತಿಯ ಹೆಸರು";
+"Date of Birth" = "ಹುಟ್ತಿದ ದಿನ";
+"Date of Death" = "ಸಾವಿನ ದಿನಾಂಕ";
+//Side Menu
+"Home" = "ಮನೆ";
+"Rasam Kriya(BESNU)" = "ರಸಂ ಕ್ರಿಯಾ(ಬೆಸ್ನು)";
+"Tervi Vidhi" = "ತೇರ್ವಿ ವಿಧಿ";
+"Person Document" = "ವ್ಯಕ್ತಿ ದಾಖಲೆ";
+"Besnu List" = "ಬೆಸ್ನು ಪಟ್ಟಿ";
+"Tervi List" = "ಟೆರ್ವಿ ಪಟ್ಟಿ";
+"Person Card List" = "ವ್ಯಕ್ತಿ ಕಾರ್ಡ್ ಪಟ್ಟಿ";
+"Delete All Data" = "ಎಲ್ಲಾ ಡೇಟಾವನ್ನು ಅಳಿಸಿ";
+"Logout" = "ಲಾಗ್ ಔಟ್";
+//Main
+"Om Santi" = "ಓಂ ಸಂತಿ";
+//Invitation Card
+"Note: If you want to install this app then download from play store, URL:" = "ಗಮನಿಸಿ: ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಸ್ಥಾಪಿಸಲು ಬಯಸಿದರೆ ನಂತರ ಪ್ಲೇ ಸ್ಟೋರ್‌ನಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ, URL:";
+"Add" = "ಸೇರಿಸಿ";
+"Edit" = "ತಿದ್ದು";
+"Passed Away Peacefully On" = "ಶಾಂತಿಯುತವಾಗಿ ನಿಧನರಾದರು";
+"Date" = "ದಿನಾಂಕ";
+"Time" = "ಸಮಯ";
+"place" = "ಸ್ಥಳ";
+"Inserted By" = "ಇವರಿಂದ ಸೇರಿಸಲಾಗಿದೆ";
+"Firm" = "ಸಂಸ್ಥೆ";
+"MobileNumber" = "ಮೊಬೈಲ್ ನಂಬರ";
+"Mundan" = "ಪ್ರಾಪಂಚಿಕ";
+"Tervi" = "ಸಂದರ್ಶನ";
+"Cancel" = "ರದ್ದುಮಾಡು";
+"Enter Number" = "ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ";
+"Person FullName" = "ವ್ಯಕ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು";
+"Date of Passed" = "ತೇರ್ಗಡೆಯಾದ ದಿನಾಂಕ";
+"Besnu Date" = "ಬೆಸ್ನು ದಿನಾಂಕ";
+"Start Time" = "ಆರಂಭವಾಗುವ";
+"End Time" = "ಅಂತಿಮ ಸಮಯ";
+"Place Name" = "ಸ್ಥಳದ ಹೆಸರು";
+"Address" = "ವಿಳಾಸ";
+"Family Member List" = "ಕುಟುಂಬ ಸದಸ್ಯರ ಪಟ್ಟಿ";
+"Firm Address" = "ಸಂಸ್ಥೆಯ ವಿಳಾಸ";
+"Mobile Number" = "ಮೊಬೈಲ್ ನಂಬರ";
+"Referal Number" = "ಉಲ್ಲೇಖಿತ ಸಂಖ್ಯೆ";
+"RelationShip" = "ಸಂಬಂಧ";
+"Mundan Date" = "ಮುಂಡನ್ ದಿನಾಂಕ";
+"Tervi Date" = "ಟೆರ್ವಿ ದಿನಾಂಕ";
+"please provide" = "ದಯವಿಟ್ಟು ಒದಗಿಸಿ";
+"please select" = "ದಯವಿಟ್ಟು ಆಯ್ಕೆ ಮಾಡು";
+"Tervi Description" = "ಟೆರ್ವಿ ವಿವರಣೆ";
+"BESNU Description" = "ಬೆಸ್ನು ವಿವರಣೆ";
+"Proof Display" = "ಪುರಾವೆ ಪ್ರದರ್ಶನ";
+//Person Info
+"Card" = "ಕಾರ್ಡ್";
+"Tervi" = "ಹದಿಮೂರು";
+"BESNU" = "ಬೆಸ್ನು";
+"List" = "ಪಟ್ಟಿ";
+//CardShowImage
+"Card Display" = "ಕಾರ್ಡ್ ಪ್ರದರ್ಶನ";
+//Add Proof
+"Add Proof" = "ಪುರಾವೆ ಸೇರಿಸಿ";
+"Document Name" = "ಡಾಕ್ಯುಮೆಂಟ್ ಹೆಸರು";
+"Document Image" = "ಡಾಕ್ಯುಮೆಂಟ್ ಚಿತ್ರ";
+
+//Family Member
+"Father" = "ತಂದೆ";
+"Mother" = "ತಾಯಿ";
+"Wife" = "ಹೆಂಡತಿ";
+"Husband" = "ಗಂಡ";
+"Brother" = "ಸಹೋದರ";
+"Sister in Law" = "ನಾ ದಿ ನಿ";
+"Brother in Law" = "ಕಾನೂನು ಸಹೋದರ";
+"Sister" = "ಸಹೋದರಿ";
+"Son" = "ಮಗ";
+"Uncle" = "ಚಿಕ್ಕಪ್ಪ";
+"Aunty" = "ಚಿಕ್ಕಮ್ಮ";
+"Daughter in Law" = "ಸೊಸೆ";
+"Grand Daughter in Law" = "ಕಾನೂನು ಮೊಮ್ಮಗಳು";
+"Great Grand Daughter in Law" = "ಕಾನೂನು ದೊಡ್ಡ ಮೊಮ್ಮಗಳು";
+"Great Grand Son" = "ಮರಿ ಮೊಮ್ಮಗ";
+"Grand Son in Law" = "ಮೊಮ್ಮಗ";
+"Daughter" = "ಮಗಳು";
+"Son" = "ಮಗ";
+"Family Detail" = "ಕುಟುಂಬದ ವಿವರ";
+"OK" = "ಸರಿ";
+"Cancel" = "ರದ್ದುಮಾಡಿ";
+"Share" = "ಹಂಚಿಕೊಳ್ಳಿ";
+"BESNU Image" = "ಬೆಸ್ನು ಚಿತ್ರ";
+"Tervi Image" = "ಹದಿಮೂರು ಚಿತ್ರ";
+"Prefer Language"  = "ಭಾಷೆಗೆ ಆದ್ಯತೆ ನೀಡಿ";
+"Song Name" = "ಹಾಡಿನ ಹೆಸರು";
+"No data found" = "ಯಾವುದೇ ಡೇಟಾ ಕಂಡುಬಂದಿಲ್ಲ";
+"SUBMIT" = "ಸಲ್ಲಿಸು";
+//Alert Messages
+"please select one option" = "ದಯವಿಟ್ಟು ಒಂದು ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ";
+"please select your profie image" = "ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ";
+"your Image is not saved please try again" = "ನಿಮ್ಮ ಚಿತ್ರವನ್ನು ಉಳಿಸಲಾಗಿಲ್ಲ ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ";
+//Main
+"please select the person image first" = "ದಯವಿಟ್ಟು ಮೊದಲು ವ್ಯಕ್ತಿಯ ಚಿತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ";
+//Invitation Card
+"You have share Card successfully" = "ನೀವು ಯಶಸ್ವಿಯಾಗಿ ಕಾರ್ಡ್ ಅನ್ನು ಹಂಚಿಕೊಂಡಿರುವಿರಿ";
+"please provide customer number more then 10 digit" = "ದಯವಿಟ್ಟು 10 ಅಂಕಿಗಳಿಗಿಂತ ಹೆಚ್ಚಿನ ಗ್ರಾಹಕರ ಸಂಖ್ಯೆಯನ್ನು ಒದಗಿಸಿ";
+"please filled the description from Add" = "ದಯವಿಟ್ಟು ಸೇರಿಸುವಿಕೆಯಿಂದ ವಿವರಣೆಯನ್ನು ಭರ್ತಿ ಮಾಡಿ";
+"given name is not exist please add Besnu card first" = "ಕೊಟ್ಟಿರುವ ಹೆಸರು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ ದಯವಿಟ್ಟು ಮೊದಲು ಬೆಸ್ನು ಕಾರ್ಡ್ ಸೇರಿಸಿ";
+"You can't be edit this data" = "ನೀವು ಈ ಡೇಟಾವನ್ನು ಸಂಪಾದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ";
+"issue for get data please try again" = "ಡೇಟಾ ಪಡೆಯಲು ಸಮಸ್ಯೆ ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ";
+"please try again" = "ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ";
+"Are you sure you want to Logout" = "ನೀವು ಲಾಗ್‌ಔಟ್ ಮಾಡಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ";
+"please enter Name at" = "ದಯವಿಟ್ಟು ನಲ್ಲಿ ಹೆಸರನ್ನು ನಮೂದಿಸಿ";
+"index" = "ಸೂಚ್ಯಂಕ";
+"please choose relationship of the member at" = "ದಯವಿಟ್ಟು ಸದಸ್ಯರ ಸಂಬಂಧವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ";
+"Your data saved successfully" = "ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ";
+"Share Card Via WhatsApp" = "WhatsApp ಮೂಲಕ ಕಾರ್ಡ್ ಹಂಚಿಕೊಳ್ಳಿ";
+"please enter customer number" = "ದಯವಿಟ್ಟು ಗ್ರಾಹಕರ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ";
+"You have shared the card successfully" = "ನೀವು ಕಾರ್ಡ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಹಂಚಿಕೊಂಡಿರುವಿರಿ";
+"Password notification will come" = "ಪಾಸ್ವರ್ಡ್ ನೋಟಿಫಿಕೇಶನ್ ಬರುತ್ತದೆ";
+"Your password is" = "ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಆಗಿದೆ";
+"please provide valied email id" = "ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಇಮೇಲ್ ಐಡಿಯನ್ನು ಒದಗಿಸಿ";
+"password should be more then 5 character" = "ಪಾಸ್ವರ್ಡ್ 5 ಅಕ್ಷರಗಳಿಗಿಂತ ಹೆಚ್ಚು ಇರಬೇಕು";
+"password does not match please provide new password and re-enter password both are same" = "ಪಾಸ್‌ವರ್ಡ್ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ ದಯವಿಟ್ಟು ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ನೀಡಿ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಮರು-ನಮೂದಿಸಿ ಎರಡೂ ಒಂದೇ";
+"please enter the number or email id" = "ದಯವಿಟ್ಟು ಸಂಖ್ಯೆ ಅಥವಾ ಇಮೇಲ್ ಐಡಿಯನ್ನು ನಮೂದಿಸಿ";
+"please sign up" = "ದಯವಿಟ್ಟು ಸೈನ್ ಅಪ್ ಮಾಡಿ";
+"please provide valied mobile number" = "ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ಒದಗಿಸಿ";
+"please check allowcation of face recognization or thumbnail" = "ದಯವಿಟ್ಟು ಮುಖ ಗುರುತಿಸುವಿಕೆ ಅಥವಾ ಥಂಬ್‌ನೇಲ್‌ನ ಅನುಮತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ";
+"please we don't have credential so first time login with email and password" = "ದಯವಿಟ್ಟು ನಾವು ರುಜುವಾತುಗಳನ್ನು ಹೊಂದಿಲ್ಲ ಆದ್ದರಿಂದ ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್‌ನೊಂದಿಗೆ ಮೊದಲ ಬಾರಿಗೆ ಲಾಗಿನ್ ಮಾಡಿ";
+"can't find image plase save the image from clicked on BESNU list when display data then from + button choose the  save option" = "ಚಿತ್ರದ ಸ್ಥಳವನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗುತ್ತಿಲ್ಲ ಡೇಟಾವನ್ನು ಪ್ರದರ್ಶಿಸಿದಾಗ ಬೆಸ್ನು ಪಟ್ಟಿಯಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿದ ಚಿತ್ರವನ್ನು ಉಳಿಸಿ ನಂತರ + ಬಟನ್ ನಿಂದ ಉಳಿಸು ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ";
+"tervi information not found" = "ಹದಿಮೂರು ಮಾಹಿತಿ ಕಂಡುಬಂದಿಲ್ಲ";
+"Email or Mobile number does not match" = "ಇಮೇಲ್ ಅಥವಾ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ";
+"please select preferable langauge" = "ದಯವಿಟ್ಟು ಆದ್ಯತೆಯ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ";
+"Are you sure you want to delete Database" = "ಡೇಟಾಬೇಸ್ ಅನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ";
+

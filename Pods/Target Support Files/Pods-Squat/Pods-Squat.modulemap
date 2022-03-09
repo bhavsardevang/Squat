@@ -1,0 +1,6 @@
+framework module Pods_Squat {
+  umbrella header "Pods-Squat-umbrella.h"
+
+  export *
+  module * { export * }
+}
